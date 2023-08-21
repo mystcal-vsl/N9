@@ -1,0 +1,26 @@
+Interger = sem virgulha
+decimal = tem virgulha
+string = texto
+date = data
+time = hora
+now = data e hora
+imptubox = texto
+application.inputbox = numero (type:=1)
+vbcr= quebra linha
+application.Speech.Speak = falar
+double= decimal para numero quebrado 
+call: chamar uma macro
+formatcurrency= aparecer como dinheiro 
+option exolicit
+if______then
+else= para cima e vdd e para baixo falso
+Default
+WorksheetFunction 
+randbetween
+activecell.formula 
+and: entre 
+WorksheetFunction.IsEven
+renge= pegar celula 
+renge____interior.color
+renge_____ select 
+trim = apaga o espaço 
